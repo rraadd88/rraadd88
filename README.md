@@ -1,16 +1,45 @@
-### Hi there 👋
+### [`htsimaging`🔬Python package for high-throughput single-cell imaging analysis.](https://github.com/rraadd88/htsimaging)
+<a href="">[![PyPI](https://img.shields.io/pypi/v/htsimaging?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/htsimaging?style=for-the-badge)](https://pypi.org/project/htsimaging)</a>
+<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/htsimaging/build.yml?style=for-the-badge)](https://github.com/rraadd88/htsimaging/actions/workflows/build.yml)</a>
+<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/issues)</a>
+<a href="">[![Downloads](https://img.shields.io/pypi/dm/htsimaging?style=for-the-badge)](https://pepy.tech/project/htsimaging)</a>
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/blob/master/LICENSE)</a>
+
+### [`chrov`🧬Chromosome Visualizations.](https://github.com/rraadd88/chrov)
+<a href="">[![PyPI](https://img.shields.io/pypi/v/chrov?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/chrov?style=for-the-badge)](https://pypi.org/project/chrov)</a>
+<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/chrov/build.yml?style=for-the-badge)](https://github.com/rraadd88/chrov/actions/workflows/build.yml)</a>
+<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/issues)</a>
+<a href="">[![Downloads](https://img.shields.io/pypi/dm/chrov?style=for-the-badge)](https://pepy.tech/project/chrov)</a>
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/blob/master/LICENSE)</a>
+
+### [`roux` 🧰Convenience functions in Python.](https://github.com/rraadd88/roux)
+<a href="">[![PyPI](https://img.shields.io/pypi/v/roux?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/roux?style=for-the-badge)](https://pypi.org/project/roux)</a>
+<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/roux/build.yml?style=for-the-badge)](https://github.com/rraadd88/roux/actions/workflows/build.yml)</a>
+<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/issues)</a>
+<a href="">[![Downloads](https://img.shields.io/pypi/dm/roux?style=for-the-badge)](https://pepy.tech/project/roux)</a>
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/blob/master/LICENSE)</a>
+
+### [`interpretable`🧰Interpretable machine learning toolbox.](https://pypi.org/project/interpretable)
+<a href="">[![PyPI](https://img.shields.io/pypi/v/interpretable?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/interpretable?style=for-the-badge)](https://pypi.org/project/interpretable)</a>
+<a href="">[![Downloads](https://img.shields.io/pypi/dm/interpretable?style=for-the-badge)](https://pepy.tech/project/interpretable)</a>
+<!--<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/interpretable/build.yml?style=for-the-badge)](https://github.com/rraadd88/interpretable/actions/workflows/build.yml)</a>-->
+<!--<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>-->
+<!--<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>-->
+
+### [`beditor`🔃A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/chrov)
+
+⬆️Solo-coding
+
+---
+
+⬇️Collaborative coding: 
+### [`safepy`🕸️Python implementation of Spatial Analysis of Functional Enrichment (SAFE).](https://github.com/baryshnikova-lab/safepy)
+### [`removestar`*️⃣Tool to automatically replace 'import *' in Python files with explicit imports.](https://github.com/asmeurer/removestar)
+### [`yeast_segmentation`🔬User friendly mask-rcnn segmentation for images of yeast cells.](https://github.com/alexxijielu/yeast_segmentation)
 
 <!--
-**rraadd88/rraadd88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Images hosted:
+interpretable
+banner: https://github.com/rraadd88/rraadd88/assets/9945034/bdef5971-f776-41ae-876e-3afac8626d3b
+logo: https://github.com/rraadd88/rraadd88/assets/9945034/e29db6d6-9a2e-4459-9c7b-dae2da416bf3
 -->
