@@ -1,3 +1,10 @@
+### [`beditor`🔂A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/chrov)
+<a href="">[![PyPI](https://img.shields.io/pypi/v/beditor?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/beditor?style=for-the-badge)](https://pypi.org/project/beditor)</a>
+<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/beditor/build.yml?style=for-the-badge)](https://github.com/rraadd88/beditor/actions/workflows/build.yml)</a>
+<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/issues)</a>
+<a href="">[![Downloads](https://img.shields.io/pypi/dm/beditor?style=for-the-badge)](https://pepy.tech/project/beditor)</a>
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/blob/master/LICENSE)</a>
+
 ### [`htsimaging`🔬Python package for high-throughput single-cell imaging analysis.](https://github.com/rraadd88/htsimaging)
 <a href="">[![PyPI](https://img.shields.io/pypi/v/htsimaging?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/htsimaging?style=for-the-badge)](https://pypi.org/project/htsimaging)</a>
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/htsimaging/build.yml?style=for-the-badge)](https://github.com/rraadd88/htsimaging/actions/workflows/build.yml)</a>
@@ -25,8 +32,6 @@
 <!--<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/interpretable/build.yml?style=for-the-badge)](https://github.com/rraadd88/interpretable/actions/workflows/build.yml)</a>-->
 <!--<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>-->
 <!--<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>-->
-
-### [`beditor`🔃A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/chrov)
 
 ⬆️Solo-coding
 
