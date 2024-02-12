@@ -1,33 +1,33 @@
 ### [`beditor`🔂A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/beditor)
-<a href="">[![PyPI](https://img.shields.io/pypi/v/beditor?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/beditor?style=for-the-badge)](https://pypi.org/project/beditor)</a>
+<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/beditor?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/beditor?style=for-the-badge)](https://pypi.org/project/beditor)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/beditor/build.yml?style=for-the-badge)](https://github.com/rraadd88/beditor/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/beditor?style=for-the-badge)](https://pepy.tech/project/beditor)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/blob/master/LICENSE)</a>
 
 ### [`htsimaging`🔬Python package for high-throughput single-cell imaging analysis.](https://github.com/rraadd88/htsimaging)
-<a href="">[![PyPI](https://img.shields.io/pypi/v/htsimaging?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/htsimaging?style=for-the-badge)](https://pypi.org/project/htsimaging)</a>
+<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/htsimaging?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/htsimaging?style=for-the-badge)](https://pypi.org/project/htsimaging)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/htsimaging/build.yml?style=for-the-badge)](https://github.com/rraadd88/htsimaging/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/htsimaging?style=for-the-badge)](https://pepy.tech/project/htsimaging)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/blob/master/LICENSE)</a>
 
 ### [`chrov`🧬Chromosome Visualizations.](https://github.com/rraadd88/chrov)
-<a href="">[![PyPI](https://img.shields.io/pypi/v/chrov?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/chrov?style=for-the-badge)](https://pypi.org/project/chrov)</a>
+<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/chrov?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/chrov?style=for-the-badge)](https://pypi.org/project/chrov)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/chrov/build.yml?style=for-the-badge)](https://github.com/rraadd88/chrov/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/chrov?style=for-the-badge)](https://pepy.tech/project/chrov)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/blob/master/LICENSE)</a>
 
 ### [`roux` 🧰Convenience functions in Python.](https://github.com/rraadd88/roux)
-<a href="">[![PyPI](https://img.shields.io/pypi/v/roux?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/roux?style=for-the-badge)](https://pypi.org/project/roux)</a>
+<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/roux?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/roux?style=for-the-badge)](https://pypi.org/project/roux)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/roux/build.yml?style=for-the-badge)](https://github.com/rraadd88/roux/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/roux?style=for-the-badge)](https://pepy.tech/project/roux)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/blob/master/LICENSE)</a>
 
 ### [`interpretable`🧰Interpretable machine learning toolbox.](https://pypi.org/project/interpretable)
-<a href="">[![PyPI](https://img.shields.io/pypi/v/interpretable?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/interpretable?style=for-the-badge)](https://pypi.org/project/interpretable)</a>
+<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/interpretable?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/interpretable?style=for-the-badge)](https://pypi.org/project/interpretable)</a> -->
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/interpretable?style=for-the-badge)](https://pepy.tech/project/interpretable)</a>
 <!--<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/interpretable/build.yml?style=for-the-badge)](https://github.com/rraadd88/interpretable/actions/workflows/build.yml)</a>-->
 <!--<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>-->
