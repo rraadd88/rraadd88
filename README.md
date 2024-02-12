@@ -1,4 +1,4 @@
-### [`beditor`🔂A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/chrov)
+### [`beditor`🔂A workflow for designing libraries of sgRNAs for CRISPR base editing.](https://github.com/rraadd88/beditor)
 <a href="">[![PyPI](https://img.shields.io/pypi/v/beditor?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/beditor?style=for-the-badge)](https://pypi.org/project/beditor)</a>
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/beditor/build.yml?style=for-the-badge)](https://github.com/rraadd88/beditor/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/issues)</a>
