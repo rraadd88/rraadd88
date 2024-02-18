@@ -21,7 +21,7 @@
 
 ### [`dseq`🧱Deep sequencing analysis in dataframes](https://github.com/rraadd88/dseq)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/dseq?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/dseq?style=for-the-badge)](https://pypi.org/project/dseq)</a> -->
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/build.yml?style=for-the-badge)](https://github.com/rraadd88/dseq/actions/workflows/build.yml)</a>
+<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/dseq/actions/workflows/test.yaml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/dseq?style=for-the-badge)](https://pepy.tech/project/dseq)</a>
 <!-- <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/blob/master/LICENSE)</a> -->
