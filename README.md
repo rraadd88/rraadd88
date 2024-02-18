@@ -24,7 +24,7 @@
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/dseq/actions/workflows/test.yaml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/issues)</a>
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/dseq?style=for-the-badge)](https://pepy.tech/project/dseq)</a>
-<!-- <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/blob/master/LICENSE)</a> -->
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/blob/master/LICENSE)</a>
 
 ### [`roux` 🧰Convenience functions in Python.](https://github.com/rraadd88/roux)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/roux?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/roux?style=for-the-badge)](https://pypi.org/project/roux)</a> -->
