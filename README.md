@@ -65,6 +65,7 @@
 
 ⬇️Collaborative coding: 
 ### [`safepy`🕸️Python implementation of Spatial Analysis of Functional Enrichment (SAFE)](https://github.com/baryshnikova-lab/safepy)
+### [`SGAtools`(🇷)One-stop analysis and visualization of array-based genetic interaction screens](https://github.com/rraadd88/sgatools)
 ### [`removestar`*️⃣Tool to automatically replace 'import *' in Python files with explicit imports](https://github.com/asmeurer/removestar)
 ### [`yeast_segmentation`🔬User friendly mask-rcnn segmentation for images of yeast cells](https://github.com/alexxijielu/yeast_segmentation)
 
