@@ -7,7 +7,7 @@
 <!--  <a href="">[![Downloads](https://img.shields.io/pypi/dm/parag?style=for-the-badge)](https://pepy.tech/project/parag)</a> -->
 <!-- <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/parag.svg?style=for-the-badge)](https://github.com/rraadd88/parag/blob/master/LICENSE)</a> -->
 
-### [`chrov`🧬Chromosome Visualizations](https://github.com/rraadd88/chrov)
+### [`chrov`🧬Genomes to proteins, multi-level visualization library](https://github.com/rraadd88/chrov)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/chrov?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/chrov?style=for-the-badge)](https://pypi.org/project/chrov)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/chrov/build.yml?style=for-the-badge)](https://github.com/rraadd88/chrov/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/issues)</a>
