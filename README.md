@@ -23,7 +23,7 @@
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/beditor?style=for-the-badge)](https://pepy.tech/project/beditor)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/blob/master/LICENSE)</a>
 
-## Single-cell imaging
+## Single-cell phenomics
 
 ### [`htsimaging`🔬Python package for high-throughput single-cell imaging analysis](https://github.com/rraadd88/htsimaging)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/htsimaging?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/htsimaging?style=for-the-badge)](https://pypi.org/project/htsimaging)</a> -->
