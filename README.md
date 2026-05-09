@@ -5,16 +5,16 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/chrov?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/chrov?style=for-the-badge)](https://pepy.tech/project/chrov)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/blob/master/LICENCE)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/chrov/build.yml?style=for-the-badge)](https://github.com/rraadd88/chrov/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/chrov.svg?style=for-the-badge)](https://github.com/rraadd88/chrov/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/chrov/build.yml?style=for-the-badge)](https://github.com/rraadd88/chrov/actions/workflows/build.yml)</a> -->
 
 ### [`parag`🎆Interactive visualization of higher-order graphs in Python](https://github.com/rraadd88/parag)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/parag?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/parag?style=for-the-badge)](https://pypi.org/project/parag)</a> -->
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/parag?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/parag?style=for-the-badge)](https://pepy.tech/project/parag)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/parag.svg?style=for-the-badge)](https://github.com/rraadd88/parag/blob/master/LICENSE)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/parag/actions/workflows/test.yaml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/parag.svg?style=for-the-badge)](https://github.com/rraadd88/parag/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/parag/actions/workflows/test.yaml)</a> -->
 
 ## Synthetic biology
 
@@ -23,8 +23,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/beditor?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/beditor?style=for-the-badge)](https://pepy.tech/project/beditor)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/blob/master/LICENSE)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/beditor/build.yml?style=for-the-badge)](https://github.com/rraadd88/beditor/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/beditor.svg?style=for-the-badge)](https://github.com/rraadd88/beditor/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/beditor/build.yml?style=for-the-badge)](https://github.com/rraadd88/beditor/actions/workflows/build.yml)</a> -->
 
 ## Single-cell phenomics
 
@@ -33,8 +33,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/htsimaging?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/htsimaging?style=for-the-badge)](https://pepy.tech/project/htsimaging)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/blob/master/LICENCE.txt)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/htsimaging/build.yml?style=for-the-badge)](https://github.com/rraadd88/htsimaging/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/htsimaging.svg?style=for-the-badge)](https://github.com/rraadd88/htsimaging/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/htsimaging/build.yml?style=for-the-badge)](https://github.com/rraadd88/htsimaging/actions/workflows/build.yml)</a> -->
 
 ## Machine learning
 
@@ -52,8 +52,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/dseq?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/dseq?style=for-the-badge)](https://pepy.tech/project/dseq)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/blob/master/LICENSE)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/dseq/actions/workflows/test.yaml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/dseq/test.yaml?style=for-the-badge)](https://github.com/rraadd88/dseq/actions/workflows/test.yaml)</a> -->
 
 ## General-purpose toolbox
 
@@ -62,8 +62,8 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/roux?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/roux?style=for-the-badge)](https://pepy.tech/project/roux)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/blob/master/LICENSE)</a>
-<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/roux/build.yml?style=for-the-badge)](https://github.com/rraadd88/roux/actions/workflows/build.yml)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/issues)</a>
+<!-- <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/roux/build.yml?style=for-the-badge)](https://github.com/rraadd88/roux/actions/workflows/build.yml)</a> -->
 
 ⬆️Solo-coding
 
