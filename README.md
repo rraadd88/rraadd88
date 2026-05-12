@@ -38,7 +38,7 @@
 
 ## Machine learning
 
-### [`interpretable`🧰toolkit for interpretable learning on graphs](https://pypi.org/project/interpretable)
+### [`interpretable`🧰toolkit for interpretable learning on graphs](https://github.com/rraadd88/interpretable)
 ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/interpretable?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/interpretable?style=for-the-badge)](https://pepy.tech/project/interpretable)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>
