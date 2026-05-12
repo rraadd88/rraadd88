@@ -38,12 +38,11 @@
 
 ## Machine learning
 
-### [`interpretable`🧰Interpretable machine learning toolbox](https://pypi.org/project/interpretable)
-<!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/interpretable?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/interpretable?style=for-the-badge)](https://pypi.org/project/interpretable)</a> -->
+### [`interpretable`🧰toolkit for interpretable learning on graphs](https://pypi.org/project/interpretable)
+![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/interpretable?style=for-the-badge)
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/interpretable?style=for-the-badge)](https://pepy.tech/project/interpretable)</a>
-<!--<a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/interpretable/build.yml?style=for-the-badge)](https://github.com/rraadd88/interpretable/actions/workflows/build.yml)</a>-->
-<!--<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>-->
-<!--<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>-->
+<a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>
+<a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>
 
 ## Bioinformatics
 
