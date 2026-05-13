@@ -49,7 +49,7 @@
 ## Machine learning
 
 ### [`interpretable`🧰toolkit for interpretable learning on graphs](https://github.com/rraadd88/interpretable)
-![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/interpretable?style=for-the-badge)
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/interpretable?style=for-the-badge) -->
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/interpretable?style=for-the-badge)](https://pepy.tech/project/interpretable)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/blob/master/LICENSE)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/interpretable.svg?style=for-the-badge)](https://github.com/rraadd88/interpretable/issues)</a>
@@ -58,7 +58,7 @@
 
 ### [`dseq`🧱Deep sequencing analysis in dataframes](https://github.com/rraadd88/dseq)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/dseq?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/dseq?style=for-the-badge)](https://pypi.org/project/dseq)</a> -->
-![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/dseq?style=for-the-badge)
+<!--  ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/dseq?style=for-the-badge) -->
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/dseq?style=for-the-badge)](https://pepy.tech/project/dseq)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/blob/master/LICENSE)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/dseq.svg?style=for-the-badge)](https://github.com/rraadd88/dseq/issues)</a>
@@ -68,7 +68,7 @@
 
 ### [`roux` 🧰Convenience functions in Python](https://github.com/rraadd88/roux)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/roux?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/roux?style=for-the-badge)](https://pypi.org/project/roux)</a> -->
-![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/roux?style=for-the-badge)
+<!--  ![GitHub Repo stars](https://img.shields.io/github/stars/rraadd88/roux?style=for-the-badge) -->
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/roux?style=for-the-badge)](https://pepy.tech/project/roux)</a>
 <a href="">[![GNU License](https://img.shields.io/github/license/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/blob/master/LICENSE)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/roux.svg?style=for-the-badge)](https://github.com/rraadd88/roux/issues)</a>
