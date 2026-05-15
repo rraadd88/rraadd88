@@ -6,9 +6,9 @@
 <a href="">[![Downloads](https://img.shields.io/pypi/dm/intom?style=for-the-badge)](https://pepy.tech/project/intom)</a> -->
 <!-- <a href="">[![DOI](https://img.shields.io/badge/DOI-link-blue?style=for-the-badge)](https://doi.org/10.5281/zenodo.20129325)</a> -->
 <a href="">[![build](https://img.shields.io/github/actions/workflow/status/rraadd88/intom/build.yml?style=for-the-badge)](https://github.com/rraadd88/intom/actions/workflows/build.yml)</a>
-<a href="">[![Downloads](https://img.shields.io/pypi/dm/intom?style=for-the-badge)](https://pepy.tech/project/intom)</a>
 <a href="">[![GNU Licence](https://img.shields.io/github/license/rraadd88/intom.svg?style=for-the-badge)](https://github.com/rraadd88/intom/blob/main/LICENSE)</a>
 <a href="">[![Issues](https://img.shields.io/github/issues/rraadd88/intom.svg?style=for-the-badge)](https://github.com/rraadd88/intom/issues)</a>
+<!-- <a href="">[![Downloads](https://img.shields.io/pypi/dm/intom?style=for-the-badge)](https://pepy.tech/project/intom)</a> -->
 
 ### [`chrov`🧬Genomes to proteins, multi-level visualization library](https://github.com/rraadd88/chrov)
 <!-- <a href="">[![PyPI](https://img.shields.io/pypi/v/chrov?style=for-the-badge)![Python](https://img.shields.io/pypi/pyversions/chrov?style=for-the-badge)](https://pypi.org/project/chrov)</a> -->
